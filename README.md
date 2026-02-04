@@ -63,4 +63,4 @@ The model demonstrated exceptional ability to learn the decision boundaries defi
 
 ---
 **Author:** Yosuke Yung
-*CS Student @ BINUS UNIVERSOITY*
+*CS Student @ BINUS UNIVERSITY*
